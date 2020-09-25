@@ -1,0 +1,36 @@
+h1{
+    color: rgb(39, 115, 238);
+}
+.landing{
+    background-color: blanchedalmond;
+}
+.about{
+    background-color: aqua;
+}
+.name{
+    font-size: 20px;
+    font-weight: 700;
+    font-style: italic;
+    color: chocolate;
+}
+
+img{
+    width: 100px;
+    height: auto;
+    float: left;
+    padding: 1% 20%;
+}
+.footer{
+    background-color: blanchedalmond;
+    height: auto;
+    position: relative;
+
+}
+.footer h4{
+    text-align: center;
+    
+}
+/* .footer .social-pages{
+    float: right;
+    position: absolute;
+} */
